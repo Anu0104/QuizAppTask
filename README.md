@@ -15,7 +15,16 @@
 #### What is AWS API Gateway ??
 ##### It’s a fully managed service that provides all the necessary tools for developers in order to create, publish, manage and secure your API regarding of scale. Amazon API Gateway will take care of all the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls, including traffic management, authorization and access control, monitoring, and API version management.
 
-## Steps required to solve the given task !!
+## Task Description
+
+#### 1. Pick your favourite open source project on Github,
+#### 2. Create a docker for this and push to ECR,
+#### 3. Make a github repo for code you select and with docker file,
+#### 4. Use AWS EC2 t2.micro for containers with ECS, create a task in ECS for this service to start the app,
+#### 5. Use API Gateway and AWS Lambda to make an endpoint to start the app,
+#### 6. Use Lambda to start the app and give output from ECS Task as output
+
+## Steps required to solve the task !!
 ### Step 1: Pull code from GitHub. Install and start docker at base OS. Create Dockerfile, run the file and build image using docker file. 
 
 ![GitHub Repo](https://user-images.githubusercontent.com/68737245/146204620-6150d3cf-0384-410f-a393-3464c043887e.png)
@@ -74,6 +83,6 @@
 
 ![Console output](https://user-images.githubusercontent.com/68737245/146217930-c7b87f5d-5126-4c90-9168-7172387a04ce.png)
 
-[Hit the url to see the output of lambda function](https://ryeel9tmsi.execute-api.ap-south-1.amazonaws.com/default/QuizApp)
+[Hit the url to see the output of lambda function](https://hfwczxhnx2.execute-api.ap-south-1.amazonaws.com/QuizApp)
 
-## Thank You so for reading !!! 
+## Thank You so much for reading !!! 
