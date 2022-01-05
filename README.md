@@ -83,6 +83,4 @@
 
 ![Console output](https://user-images.githubusercontent.com/68737245/146217930-c7b87f5d-5126-4c90-9168-7172387a04ce.png)
 
-[Hit the url to see the output of lambda function](https://hfwczxhnx2.execute-api.ap-south-1.amazonaws.com/QuizApp)
-
 ## Thank You so much for reading !!! 
