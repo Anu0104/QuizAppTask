@@ -1,5 +1,5 @@
 # QuizAppTask
-### Run the Web Application using AWS services !!!
+### Deploying the Web Application using AWS services !!!
 #### What is AWS ??
 ##### The full form of AWS is Amazon Web Services. It is a platform that offers flexible, reliable, scalable, easy-to-use and, cost-effective cloud computing solutions. AWS is a comprehensive, easy to use computing platform offered Amazon. The platform is developed with a combination of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings.
 
